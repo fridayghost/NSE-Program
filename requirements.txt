@@ -1,0 +1,10 @@
+numpy
+pandas
+beautifulsoup4
+datetime
+openpyxl
+easyimap
+fire
+yagmail
+lxml
+nsepy
